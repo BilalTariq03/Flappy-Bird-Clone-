@@ -40,9 +40,9 @@ Thumbs.db
 .vscode/
 
 # Ignore audio files but keep meta files
-Assets/Audio/*.wav
-Assets/Audio/*.mp3
-Assets/Audio/*.ogg
-Assets/Audio/*.flac
-Assets/Audio/*.aiff
-Assets/Audio/*.m4a
+Assets/Audio/**/*.wav
+Assets/Audio/**/*.mp3
+Assets/Audio/**/*.ogg
+Assets/Audio/**/*.flac
+Assets/Audio/**/*.aiff
+Assets/Audio/**/*.m4a
